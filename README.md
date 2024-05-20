@@ -1,2 +1,1 @@
-# dice-game
-Created a dice game for Bad Website Club's bootcamp
+Created a dice game for Bad Website Club's bootcamp using [freeCodeCamp's Javascript and Data Structures curriculum.](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/learn-intermediate-algorithmic-thinking-by-building-a-dice-game/step-1))
